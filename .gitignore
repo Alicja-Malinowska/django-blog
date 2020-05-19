@@ -1,0 +1,6 @@
+/.vscode
+/env
+*.sqlite3
+*.pyc
+.~c9
+__pycahce__/
